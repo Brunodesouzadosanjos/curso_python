@@ -6,7 +6,8 @@
         print('impar')
 except:
     print('Isso não é um numero inteiro')"""
-try:
+
+"""try:
     horario = int(input('Qual o horario? '))
     if horario <= 11 :
         print('bom dia')
@@ -15,4 +16,5 @@ try:
     else:
         print('Boa noite')
 except:
-    print('Informa apenas valores de 0 ate 23')
+    print('Informa apenas valores de 0 ate 23')"""
+
